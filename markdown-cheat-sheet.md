@@ -82,9 +82,9 @@ To Watch whole python ka chila \
 This whole course is [here][Codanics]
 
 # 9-Images and figures with links
-To join this course scan the following QR code and telegram group.
->if it is local directory
 
+>if it is local directory
+>Here is sample imaeges in th e form of QR code
 
 ![QR](qr.png)
 
