@@ -60,7 +60,7 @@ ___Bold and italic___\
    2. Day 5b
 
 # 7-Line or Page Breaks
-This is Page 1\
+This is Page 1
 ---
 ___
 
