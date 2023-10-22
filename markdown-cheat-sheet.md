@@ -1,4 +1,4 @@
-# Markdown-Cheat-Sheet
+# Markdown-Cheat-Sheet-By-me
 # 1-How to give headings in markdown files ?
 use hashtag sign annd then add space.
 ## Heading 2
